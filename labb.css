@@ -1,0 +1,39 @@
+body{
+    margin:0;
+    background-color:lightgreen;
+    }
+#minDiv
+{ 
+ 
+border: 5px solid black;
+
+}
+h1 
+{
+color:black;
+text-align:center;
+}
+td {
+    border: 3px solid black;
+    width:150px;
+    height:150px;
+}
+table {
+text-align:center;
+font-size:large;
+margin:auto;
+}
+#noobish {
+text-align:center;
+}
+#noobissh {
+text-align:center;
+}
+#minDiva {
+border: 2px solid black;
+margin-top:2px;
+}
+#divalot{
+    padding: 1px;
+    border:2px solid black;
+}
